@@ -1,0 +1,64 @@
+﻿body
+{
+    background-color:gray;
+}
+
+.header
+{
+    color: aqua;
+
+}
+
+.Login
+{
+    padding-top: 250px;
+
+}
+
+.Login form
+{
+    padding:20px;
+    background-color:white;
+    text-align:center;
+    width:500px;
+    border-radius:5px;
+    margin:auto;
+
+}
+
+.Login form .box
+{
+    width:50%;
+    border-radius: 5px;
+    padding:12px 14px;
+    font-size:18px;
+    color:black;
+    margin:10px 0;
+    background-color:white;
+    
+}
+
+.btn
+{
+    width:25%;
+    border-radius:5px;
+    padding:10px 30px;
+    text-align:center;
+    display:block;
+    font-size:20px;
+    margin:auto;
+
+}
+
+.Login form .error-msg
+{
+    margin:10px 0;
+    display: block;
+    background-color: crimson;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 20px;
+
+
+
+}
